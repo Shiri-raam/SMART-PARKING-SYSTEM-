@@ -1,1 +1,1 @@
-# SMART-PARKING-SYSTEM-
+Develop a Java application that monitors real-time parking space occupancy and adjusts pricing accordingly.Create a reservation module in Sava that allows users to book parking spaces for specific time slots. Implement logic for confirming reservations land updating the availability of parking spaces
